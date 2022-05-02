@@ -1,5 +1,4 @@
 # Nexapp Core
-draft
 this is an update to create a merge request, and this is a fix
 
 Several Java mini-modules for REST APIs.
